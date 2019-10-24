@@ -47,6 +47,7 @@ São critérios de avaliação:
 - **[Google Chrome](https://www.google.com/intl/pt-BR/chrome/)**
 - **[MetaMask](https://metamask.io/)**
 - **[Sublime Text](https://www.sublimetext.com/)**
+- **[Ethereum-Solidity language syntax in Sublime](https://medium.com/coinmonks/ethereum-solidity-language-syntax-in-sublime-1532e6f3646d)**
 
 ## Instalando o Homebrew no macOS
 
