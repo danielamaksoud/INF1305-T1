@@ -46,4 +46,6 @@ São critérios de avaliação:
 
 ## Instalando Node.js
 
-> brew install node
+```
+brew install node
+```
