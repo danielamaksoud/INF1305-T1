@@ -48,6 +48,7 @@ São critérios de avaliação:
 - **[MetaMask](https://metamask.io/)**
 - **[Sublime Text](https://www.sublimetext.com/)**
 - **[Ethereum-Solidity language syntax in Sublime](https://medium.com/coinmonks/ethereum-solidity-language-syntax-in-sublime-1532e6f3646d)**
+- **[solidity code compilation error?](https://ethereum.stackexchange.com/questions/66104/solidity-code-compilation-error)**
 
 ## Instalando o Homebrew no macOS
 
@@ -71,4 +72,10 @@ npm install truffle -g
 
 ```
 truffle unbox pet-shop
+```
+
+## Fazendo Deploy do Contrato com o Truffle
+
+```
+truflle migrate
 ```
