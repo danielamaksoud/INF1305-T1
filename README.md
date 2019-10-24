@@ -9,6 +9,11 @@
 - @barbara-herrera
 - @thiagola92
 
+## Professores
+
+- Gustavo Robichez de Carvalho
+- Rafael Nasser
+
 ## Enunciado
 
 O trabalho é individual e consiste no desenvolvimento de um dApp (decentralized app) Ethereum, com interface web e contrato inteligente na linguagem Solidity. O tema do trabalho é de livre escolha do aluno!
@@ -22,7 +27,9 @@ São critérios de avaliação:
 - b) Cumprimento das orientações (prazos, artefatos, apresentação e submissão);
 - c) Qualidade do trabalho entregue.
 
-## Professores
+## Arquivos
 
-- Gustavo Robichez de Carvalho
-- Rafael Nasser
+| Nome do Arquivo | Descrição |
+| ------------- | ------------- |
+| prescription_contract.sol  | Contrato inteligente. |
+| index.html | Página principal.  |
