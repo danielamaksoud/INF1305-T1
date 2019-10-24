@@ -8,8 +8,8 @@
 
 ## Contribuição
 
-- @barbara-herrera
-- @thiagola92
+- **[@barbara-herrera](https://github.com/barbara-herrera)**
+- **[@thiagola92](https://github.com/thiagola92)**
 
 ## Professores
 
