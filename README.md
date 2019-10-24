@@ -33,3 +33,9 @@ São critérios de avaliação:
 | ------------- | ------------- |
 | prescription_contract.sol  | Contrato inteligente. |
 | index.html | Página principal.  |
+
+## Recursos Utilizados
+
+- Remix Ethereum IDE (https://remix.ethereum.org/)
+- MetaMask (https://metamask.io/)
+- web3.js (https://web3js.readthedocs.io/)
