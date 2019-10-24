@@ -44,7 +44,7 @@ São critérios de avaliação:
 - **[How To Build Ethereum Dapp (Decentralized Application Development Tutorial)](https://www.youtube.com/watch?v=3681ZYbDSSk&feature=youtu.be)**
 - **[Node.js](https://nodejs.org/en/)**
 
-## Instalando Node.js
+## Instalando Node.js no macOS
 
 ```
 brew install node
