@@ -44,6 +44,7 @@ São critérios de avaliação:
 - **[Homebrew](https://brew.sh/index_pt-br)**
 - **[Node.js](https://nodejs.org/en/)**
 - **[Truffle Suite](https://www.trufflesuite.com/)**
+- **[Google Chrome](https://www.google.com/intl/pt-BR/chrome/)**
 - **[MetaMask](https://metamask.io/)**
 
 ## Instalando o Homebrew no macOS
