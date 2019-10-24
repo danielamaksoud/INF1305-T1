@@ -39,12 +39,12 @@ São critérios de avaliação:
 ## Recursos Utilizados
 
 - **[Remix Ethereum IDE](https://remix.ethereum.org/)**
-- **[MetaMask](https://metamask.io/)**
 - **[web3.js](https://web3js.readthedocs.io/)**
 - **[How To Build Ethereum Dapp (Decentralized Application Development Tutorial)](https://www.youtube.com/watch?v=3681ZYbDSSk&feature=youtu.be)**
 - **[Homebrew](https://brew.sh/index_pt-br)**
 - **[Node.js](https://nodejs.org/en/)**
 - **[Truffle Suite](https://www.trufflesuite.com/)**
+- **[MetaMask](https://metamask.io/)**
 
 ## Instalando o Homebrew no macOS
 
