@@ -42,3 +42,4 @@ São critérios de avaliação:
 - **[MetaMask](https://metamask.io/)**
 - **[web3.js](https://web3js.readthedocs.io/)**
 - **[How To Build Ethereum Dapp (Decentralized Application Development Tutorial)](https://www.youtube.com/watch?v=3681ZYbDSSk&feature=youtu.be)**
+- **[Node.js](https://nodejs.org/en/)**
