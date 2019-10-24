@@ -79,3 +79,21 @@ truffle unbox pet-shop
 ```
 truflle migrate
 ```
+
+## Acessando o Contrato com o Truffle
+
+``` 
+Prescription.deployed().then(function(instance) { app = instance })
+```
+
+## Verificando Endereço do Contrato com o Truffle
+
+```
+app.address
+```
+
+## Verificando Variável do Contrato com o Truffle
+
+```
+app.medication
+```
