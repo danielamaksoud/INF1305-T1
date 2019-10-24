@@ -49,6 +49,7 @@ São critérios de avaliação:
 - **[Sublime Text](https://www.sublimetext.com/)**
 - **[Ethereum-Solidity language syntax in Sublime](https://medium.com/coinmonks/ethereum-solidity-language-syntax-in-sublime-1532e6f3646d)**
 - **[solidity code compilation error?](https://ethereum.stackexchange.com/questions/66104/solidity-code-compilation-error)**
+- **[Relação de Medicamentos Essenciais para a Rede de Atenção Básica](http://www2.fm.usp.br/gdc/docs/cseb_17_REMUME_Rede_Basica.pdf)**
 
 ## Instalando o Homebrew no macOS
 
