@@ -57,3 +57,9 @@ São critérios de avaliação:
 ```
 brew install node
 ```
+
+## Instalando o Truffle no macOS
+
+```
+npm install truffle -g
+```
