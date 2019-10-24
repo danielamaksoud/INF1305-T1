@@ -1,3 +1,5 @@
+![Daniela Maksoud Logo](http://sempregatas.com.br/imagens/Logo.png)
+
 # Trabalho 1 de Blockchain
 
 ## Aluna
@@ -36,7 +38,7 @@ São critérios de avaliação:
 
 ## Recursos Utilizados
 
-- Remix Ethereum IDE (https://remix.ethereum.org/)
-- MetaMask (https://metamask.io/)
-- web3.js (https://web3js.readthedocs.io/)
-- How To Build Ethereum Dapp (Decentralized Application Development Tutorial) (https://www.youtube.com/watch?v=3681ZYbDSSk&feature=youtu.be)
+- **[Remix Ethereum IDE](https://remix.ethereum.org/)**
+- **[MetaMask](https://metamask.io/)**
+- **[web3.js](https://web3js.readthedocs.io/)**
+- **[How To Build Ethereum Dapp (Decentralized Application Development Tutorial)](https://www.youtube.com/watch?v=3681ZYbDSSk&feature=youtu.be)**
