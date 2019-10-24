@@ -1,6 +1,6 @@
 ![Daniela Maksoud Logo](http://sempregatas.com.br/imagens/Logo.png)
 
-# Primeiro Trabalho de INF1305
+# Primeiro Trabalho de INF1305 (Tópicos em Computação II - Blockchain)
 
 ## Aluna
 
