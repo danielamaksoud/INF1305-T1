@@ -1,5 +1,14 @@
 # Trabalho 1 de Blockchain
 
+## Aluna
+
+- Daniela Brazão Maksoud
+
+## Contribuição
+
+- @barbara-herrera
+- @thiagola92
+
 ## Enunciado
 
 O trabalho é individual e consiste no desenvolvimento de um dApp (decentralized app) Ethereum, com interface web e contrato inteligente na linguagem Solidity. O tema do trabalho é de livre escolha do aluno!
