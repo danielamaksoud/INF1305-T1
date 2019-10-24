@@ -47,5 +47,5 @@ São critérios de avaliação:
 ## Instalando Node.js no macOS
 
 ```
-brew install node
+HOMEBREW_NO_AUTO_UPDATE=1 brew install node
 ```
