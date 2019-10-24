@@ -95,5 +95,5 @@ app.address
 ## Verificando Variável do Contrato com o Truffle
 
 ```
-app.medication
+app.medication()
 ```
