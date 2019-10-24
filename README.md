@@ -81,6 +81,12 @@ truffle unbox pet-shop
 truflle migrate
 ```
 
+## Acessando o Console do Truffle
+
+```
+truffle console
+```
+
 ## Acessando o Contrato com o Truffle
 
 ``` 
@@ -97,4 +103,10 @@ app.address
 
 ```
 app.medication()
+```
+
+## Saindo do Console do Truffle
+
+```
+.exit
 ```
