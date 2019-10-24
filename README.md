@@ -44,14 +44,14 @@ São critérios de avaliação:
 - **[How To Build Ethereum Dapp (Decentralized Application Development Tutorial)](https://www.youtube.com/watch?v=3681ZYbDSSk&feature=youtu.be)**
 - **[Node.js](https://nodejs.org/en/)**
 
-## Instalando Homebrew no macOS
+## Instalando o Homebrew no macOS
 
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-## Instalando Node.js no macOS
+## Instalando o Node.js no macOS
 
 ```
-HOMEBREW_NO_AUTO_UPDATE=1 brew install node
+brew install node
 ```
