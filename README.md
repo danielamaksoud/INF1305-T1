@@ -43,6 +43,7 @@ São critérios de avaliação:
 - **[web3.js](https://web3js.readthedocs.io/)**
 - **[How To Build Ethereum Dapp (Decentralized Application Development Tutorial)](https://www.youtube.com/watch?v=3681ZYbDSSk&feature=youtu.be)**
 - **[Node.js](https://nodejs.org/en/)**
+- **[Truffle Suite](https://www.trufflesuite.com/)**
 
 ## Instalando o Homebrew no macOS
 
