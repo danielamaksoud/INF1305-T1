@@ -86,13 +86,13 @@ truflle migrate
 Prescription.deployed().then(function(instance) { app = instance })
 ```
 
-## Verificando Endereço do Contrato com o Truffle
+## Verificando o Endereço do Contrato com o Truffle
 
 ```
 app.address
 ```
 
-## Verificando Variável do Contrato com o Truffle
+## Verificando uma Variável do Contrato com o Truffle
 
 ```
 app.medication()
