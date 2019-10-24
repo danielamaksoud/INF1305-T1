@@ -46,6 +46,7 @@ São critérios de avaliação:
 - **[Truffle Suite](https://www.trufflesuite.com/)**
 - **[Google Chrome](https://www.google.com/intl/pt-BR/chrome/)**
 - **[MetaMask](https://metamask.io/)**
+- **[Sublime Text](https://www.sublimetext.com/)**
 
 ## Instalando o Homebrew no macOS
 
