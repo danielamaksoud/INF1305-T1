@@ -129,5 +129,5 @@ app.medications(1).then(function(c) { medication = c; })
 ```
 medication[0]
 medication[1]
-...
+medication[3]
 ```
