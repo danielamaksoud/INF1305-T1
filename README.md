@@ -157,3 +157,9 @@ accounts[0]
 accounts[1]
 ...
 ```
+
+## Iniciar Lite Server
+
+```
+npm run dev
+```
