@@ -145,3 +145,12 @@ medication[0].toNumber()
 ```
 web3.eth.getAccounts()
 ```
+
+## Obter Conta Específica do Truffle
+
+```
+web3.eth.getAccounts().then(function(acc){accounts=acc;});
+accounts[0]
+accounts[1]
+...
+```
