@@ -117,3 +117,9 @@ app.medication()
 ```
 truffle migrate --reset
 ```
+
+## Instanciar uma medication no Truffle
+
+```
+app.medications(1).then(function(c) { medication = c; })
+```
