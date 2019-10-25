@@ -51,6 +51,8 @@ São critérios de avaliação:
 - **[Ethereum-Solidity language syntax in Sublime](https://medium.com/coinmonks/ethereum-solidity-language-syntax-in-sublime-1532e6f3646d)**
 - **[solidity code compilation error?](https://ethereum.stackexchange.com/questions/66104/solidity-code-compilation-error)**
 - **[Relação de Medicamentos Essenciais para a Rede de Atenção Básica](http://www2.fm.usp.br/gdc/docs/cseb_17_REMUME_Rede_Basica.pdf)**
+- **[TypeError: Data location must be “storage” or “memory” for parameter in function, but none was given
+](https://ethereum.stackexchange.com/questions/63294/typeerror-data-location-must-be-storage-or-memory-for-parameter-in-function)**
 
 ## Instalando o Homebrew no macOS
 
