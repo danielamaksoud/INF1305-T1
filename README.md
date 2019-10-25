@@ -53,6 +53,8 @@ São critérios de avaliação:
 - **[Relação de Medicamentos Essenciais para a Rede de Atenção Básica](http://www2.fm.usp.br/gdc/docs/cseb_17_REMUME_Rede_Basica.pdf)**
 - **[TypeError: Data location must be “storage” or “memory” for parameter in function, but none was given
 ](https://ethereum.stackexchange.com/questions/63294/typeerror-data-location-must-be-storage-or-memory-for-parameter-in-function)**
+- **[Web3: How do I get just the first account on testrpc using web3.eth.getAccounts()?
+](https://ethereum.stackexchange.com/questions/31967/web3-how-do-i-get-just-the-first-account-on-testrpc-using-web3-eth-getaccounts)**
 
 ## Instalando o Homebrew no macOS
 
