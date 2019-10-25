@@ -163,3 +163,9 @@ accounts[1]
 ```
 npm run dev
 ```
+
+## Realizar um Voto no Truffle
+
+```
+app.vote(1, {from: accounts[0]})
+```
