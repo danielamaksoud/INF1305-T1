@@ -123,3 +123,11 @@ truffle migrate --reset
 ```
 app.medications(1).then(function(c) { medication = c; })
 ```
+
+## Acessar os Atributos da struct medication
+
+```
+medication[0]
+medication[1]
+...
+```
