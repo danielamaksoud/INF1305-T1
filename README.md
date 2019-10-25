@@ -139,3 +139,9 @@ medication[2]
 ```
 medication[0].toNumber()
 ```
+
+## Obter Contas do Truffle
+
+```
+web3.eth.getAccounts()
+```
