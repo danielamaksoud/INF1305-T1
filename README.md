@@ -9,6 +9,7 @@
 ## Contribuição
 
 - **[@barbara-herrera](https://github.com/barbara-herrera)**
+- **[@eduardomaksoud](https://github.com/eduardomaksoud)**
 - **[@thiagola92](https://github.com/thiagola92)**
 
 ## Professores
