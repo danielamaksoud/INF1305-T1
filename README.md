@@ -111,3 +111,9 @@ app.medication()
 ```
 .exit
 ```
+
+## Dando Reset no Truffle
+
+```
+truffle migrate --reset
+```
